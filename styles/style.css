@@ -130,10 +130,6 @@
   font-weight: 600;
 }
 
-.paragraph:last-child {
-  padding-bottom: 0;
-}
-
 .digits {
   display: flex;
   flex-direction: column;
@@ -246,7 +242,7 @@
   overflow: hidden;
 }
 
-.triangle {
+.kaufman__triangle {
   position: absolute;
   width: 877px;
   height: 877px;
@@ -335,7 +331,7 @@
   padding-inline-start: 0px;
   margin: 0;
   padding: 0;
-  gap: 16px;
+  margin-bottom: 16px;
   list-style-type: none;
 }
 
